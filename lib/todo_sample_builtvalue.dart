@@ -4,4 +4,5 @@
 library todo_sample_builtvalue;
 
 export 'src/category.dart';
+export 'src/serializers.dart';
 export 'src/todo.dart';
