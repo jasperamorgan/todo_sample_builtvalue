@@ -3,4 +3,5 @@
 /// Models are seralizable to and from JSON.
 library todo_sample_builtvalue;
 
+export 'src/category.dart';
 export 'src/todo.dart';
